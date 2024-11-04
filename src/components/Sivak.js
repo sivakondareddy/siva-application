@@ -5,7 +5,7 @@ function Sivak() {
   return (
 <div>
     <div className="scroll-cont">
-    <marquee>Sivakondareddy</marquee>
+    <p>Sivakondareddy</p>
   
     </div>
     <div>
