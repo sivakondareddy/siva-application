@@ -1,0 +1,88 @@
+
+
+  .navbar-cnavbar{
+    background-color: #05144c;
+    width:100%;
+    height:20px;
+  
+    z-index: 100;
+  }
+  .navbar-linked-text{
+    text-decoration: none;
+  
+    }
+    
+    .navbar-logo-10{
+        margin-bottom: -20px;
+          
+
+      }
+      .navbar-logo{
+        border:1px solid rgb(235, 12, 12); 
+        
+      }
+
+  .navbar-yaa{
+  
+  width:100px;
+  color:#ebf0f0;
+  font-weight: 00;
+  margin-top: -20px;
+  height:50px;
+  
+  margin-left: 0px;
+  
+  
+  }
+
+
+ 
+    header {
+      position:fixed;
+      z-index: 1000; 
+      top: 0;
+      width:100%;
+  margin-top: 1%;
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 70px;
+    padding: 0 2rem;
+    background-color:rgb(161, 149, 18);
+    color: var(--textColor);
+    }
+
+    header div,
+    nav {
+    display: flex;
+    align-items: center;
+    }
+    .friend{
+        text-align: center;
+        margin-left: -800px;
+        font-size: 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+ 
